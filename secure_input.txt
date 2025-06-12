@@ -7,3 +7,9 @@ test from the next lapi.
 
 TEst another line 
 and Code.
+
+
+Here is another line whcih is configured  and we need to check this details.
+
+
+API -> Load balancer -> SErvice ->DB
