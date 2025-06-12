@@ -13,3 +13,48 @@ Here is another line whcih is configured  and we need to check this details.
 
 
 API -> Load balancer -> SErvice ->DB
+
+
+PS C:\WINDOWS\system32> armclient get /subscriptions/8c980224-6ca2-4e6f-a817-e9746807d4d7/resourceGroups/ecy-pod01-srs1-01/providers/Microsoft.Chaos/experiments?api-version=2021-09-15-preview
+Exception of type 'Microsoft.IdentityModel.Clients.ActiveDirectory.AdalServiceException' was thrown.
+
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20876556
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20876449
+
+
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20877227
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20877690
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20878070
+https://msazure.visualstudio.com/DefaultCollection/One/_workitems/edit/20878286
+
+
+WorkflowScheduler lock acquired  Workflow entity= WorkflowId: 78a5fadd-a34c-4911-9f5c-2c4a8de5008d WorkflowName: TestFailoverWorkflow TimeStamp (UTC): 4/4/2023 2:07:33 PM EntityLock: True LockPeriod: 150 Version: 1.0.0.0 WorkflowSubmitTime (UTC): 4/4/2023 2:07:33 PM Active workflow entity= MessageId:2ac59a75-cd92-4e12-8ac7-6bb2e288ec4d;PopReceipt:AgAAAAMAAAAAAAAAqy2oJv9m2QE=;TimeStamp:133250908530000000;DequeCount:1.
+
+ExecuteWorkflow picked workflow from thread pool  Workflow entity= WorkflowId: 78a5fadd-a34c-4911-9f5c-2c4a8de5008d WorkflowName: TestFailoverWorkflow TimeStamp (UTC): 4/4/2023 2:07:33 PM EntityLock: True LockPeriod: 150 Version: 1.0.0.0 WorkflowSubmitTime (UTC): 4/4/2023 2:07:33 PM Active workflow entity= MessageId:2ac59a75-cd92-4e12-8ac7-6bb2e288ec4d;PopReceipt:AgAAAAMAAAAAAAAAqy2oJv9m2QE=;TimeStamp:133250908530000000;DequeCount:1.
+
+
+CoreWorkflowExecutionInstance::PerformWorkflowExecution::WorkflowId = 78a5fadd-a34c-4911-9f5c-2c4a8de5008d, WorkflowName = TestFailoverWorkflow, TaskName = TestFailoverPreflightChecksTask, Task execution time = 12.846901.
+
+CoreWorkflowExecutionInstance::PerformWorkflowExecution::WorkflowId = 78a5fadd-a34c-4911-9f5c-2c4a8de5008d_ab210523-a76d-4552-82bc-a285adef9a71_A2A_PrepareTestProtectedEntities_8469e794-5490-51bd-898e-13a7060cc6e6_replica, WorkflowName = AzureVmCreationWorkflow, TaskName = RegisterSqlVmTask, Task execution time = NotAvailable 
+
+
+Assumptions and Constraints
+Appliance is registration is done from portal during the registration.
+Appliance make many other dependency calls to other microservices where SRS one of them.
+
+But while delete and reset though there is no "appliance microservice", which ideally should handle this, we are adjusting the design to compensate this in SRS.
+Below are some design design diversion we have taken for this
+1. Purge should not block for any preflight, because it used for the cleaning up the services. but we are using the purge DRA to validate the appliance health during the appliance is unhealthy.
+2. In the purge, of the RCM call failed then purge job will fail. and which is not and recomended design for the purge API.
+3. If the SDS calls fail then the purge job will fail. 
+
+
+Hi,
+I hope this message finds you well. As I continue to grow in my role, I would like to request your constructive feedback on my performance. While I am proud of the work I have accomplished so far, I am always looking for ways to improve and contribute more to the success of our team.
+
+If there are any specific areas where you believe I have excelled and should continue to focus on, or if you have identified any opportunities for improvement, I would greatly appreciate your input. Your feedback will be invaluable in helping me grow and develop in my role.
+
+Thank you in advance for taking the time to provide your thoughts and suggestions.
+
+Best regards,
+Shubhranshu
