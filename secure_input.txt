@@ -12,3 +12,5 @@ Code Updated.
 
 
 this is a common details
+
+here is the code which you wan to send to other system which he can see.
