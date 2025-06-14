@@ -20,3 +20,19 @@ WorkflowScheduler lock acquired  Workflow entity= WorkflowId: 78a5fadd-a34c-4911
 Details for the screen and check the details.
 
 this is the code for the given problem
+
+I will ask you some interview question in the text or image format please 
+
+1. System Design
+
+Write a System design for above problem with below detail format 
+Functional requirment
+Non-functional requirment
+API Design
+Database design
+Back of the envolup estimation (QPS, Storage, latency)
+Highlevel design
+Algorithms if any required
+Buttlenecks
+Tradeoffs
+Conclusions
