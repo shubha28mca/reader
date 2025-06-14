@@ -19,5 +19,4 @@ WorkflowScheduler lock acquired  Workflow entity= WorkflowId: 78a5fadd-a34c-4911
 
 Details for the screen and check the details.
 
-
 this is the code for the given problem
