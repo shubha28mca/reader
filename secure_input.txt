@@ -14,3 +14,5 @@ Code Updated.
 this is a common details
 
 here is the code which you wan to send to other system which he can see.
+
+WorkflowScheduler lock acquired  Workflow entity= WorkflowId: 78a5fadd-a34c-4911-9f5c-2c4a8de5008d WorkflowName: TestFailoverWorkflow TimeStamp (UTC): 4/4/2023 2:07:33 PM EntityLock: True LockPeriod: 150 Version: 1.0.0.0 WorkflowSubmitTime (UTC): 4/4/2023 2:07:33 PM Active workflow entity= MessageId:2ac59a75-cd92-4e12-8ac7-6bb2e288ec4d;PopReceipt:AgAAAAMAAAAAAAAAqy2oJv9m2QE=;TimeStamp:133250908530000000;DequeCount:1.
