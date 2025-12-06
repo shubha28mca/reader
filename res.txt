@@ -1,51 +1,17 @@
-A 360-degree feedback system can be highly effective in a law firm, but it requires careful design to navigate the hierarchical, political, and reputation-driven nature of legal workplaces. Ignoring these dynamics leads to tension, distrust, and no behavioral change.
+Question 1
 
-Benefits and Risks 
-Advantages
-Broader Performance Visibility: The system moves beyond traditional metrics like billable hours to evaluate soft skills like teamwork, mentoring, emotional intelligence, and people management. Peer and subordinate feedback exposes blind spots that senior lawyers often don't hear.
+A luxury furniture manufacturer EliteCraft Pvt Ltd receives an order for twenty executive desks. The cost accountant must use job order costing to calculate the total cost and cost per desk. The data provided includes wood and raw materials costing fifty thousand and labor charges costing thirty thousand. Factory overheads are applied at twenty percent of direct labor.
 
-Improved Collaboration: It highlights bottlenecks and unprofessional behavior in cross-functional legal work (research, filing, client communication) that traditional appraisals miss.
+Step one is to determine direct costs. Direct material is fifty thousand. Direct labor is thirty thousand. Step two is to calculate factory overhead. Twenty percent of thirty thousand equals six thousand. Step three is to accumulate the total job cost. Material fifty thousand plus labor thirty thousand plus overhead six thousand gives a total cost of eighty six thousand. Step four is to determine the cost per unit. The total cost of eighty six thousand is divided by the twenty desks. The cost per desk is four thousand three hundred.
 
-Leadership Development: It pushes technically strong but poor people managers to develop coaching, delegation, and conflict-resolution skills.
+Job order costing benefits customized manufacturing because it assigns costs to specific jobs or orders rather than spreading costs evenly across mass production. It tracks direct material direct labor and applied overhead for each individual product or batch. This method improves cost control because managers can see the actual costs incurred for each customer order and compare them with estimates.
 
-Bias Reduction: Using multiple raters improves fairness by mitigating the favoritism and personal bias associated with single-senior reviews.
+It also supports pricing decisions. Since each job has a clear cost record the company can set prices that cover costs and generate profit. It prevents underpricing which can lead to losses and overpricing which can reduce competitiveness. Job order costing improves accountability by making every department responsible for the costs that belong to their part of the process.
 
-Cultural Shift: It signals that professional conduct, responsiveness, and ethics are as important as winning cases.
+Another major benefit is accuracy in overhead allocation. Instead of guessing general overhead percentages job order costing uses predetermined rates based on labor hours machine hours or other allocation bases which keeps cost calculation consistent and reasonable. It is especially useful in custom furniture manufacturing where each job differs in design materials finish and labor time.
 
-Disadvantages / Risks
-Fear of Retaliation: Juniors may withhold honest feedback if partners control their promotions and assignments. Anonymity is often not enough.
+Job order costing also creates reliable cost documentation. This helps in future planning and budgeting because the company can compare the actual cost data from previous jobs. It supports continuous improvement since management can identify inefficiencies such as high material waste or excessive labor time on specific types of orders.
 
-Subjective, Vague Comments: Skilled writers (lawyers) can subtly weaponize feedback, using personal criticism masked as "constructive input".
+Finally job order costing strengthens customer communication. When a corporate client places a special order EliteCraft can provide a transparent cost breakdown which increases trust and enables smoother contract negotiations. For specialized orders such as executive desks with ergonomic design knowing the cost of each component ensures competitive pricing and profitable operations.
 
-Misuse as a Political Tool: Without controls, the system can reward popularity instead of competence due to internal firm rivalries.
-
-Time Burden: In a billable hour culture, time spent on non-billable feedback is seen as a waste, leading to rushed or checkbox evaluations.
-
-Low Trust Environment: Implementing 360 feedback without a pre-existing culture of psychological safety will backfire and breed cynicism.
-
-Poor Implementation: Collecting data without coaching, follow-up plans, and behavioral targets is useless, leading to defensiveness and no improvement.
-
-Recommendations for Effective Implementation 
-To ensure success, HR must focus on structure, safety, and accountability:
-
-Pilot Program: Start with a small, stable department before a firm-wide rollout to learn and correct mistakes.
-
-Decouple from Compensation: Initially, the system must be developmental only. Tying it to bonuses in the first year will incentivize gaming the system.
-
-Clear, Behavioral Criteria: Avoid vague questions. Use measurable indicators like Timeliness of responses, Quality of mentorship, and Collaboration on shared cases.
-
-Evidence Requirement: Every negative rating must include examples to prevent anonymous personal attacks.
-
-Professional Facilitation: Use external consultants or a specialized platform to guarantee anonymity, structure reports, and enhance credibility.
-
-Mandatory Coaching: Feedback is useless without guidance. Ensure each participant receives a debrief from a trained facilitator and develops a 90-day improvement plan.
-
-Rater Training: Train people on how to give objective, behavior-based comments to avoid emotional responses.
-
-Address Power Imbalance: Partners must explicitly commit to not retaliating, and this commitment must be visibly enforced.
-
-Leadership Modeling: Senior partners should voluntarily go through 360 feedback and publicly share their improvement goals to model vulnerability.
-
-Simplify: Keep the survey short, focused, and relevant, aiming for under 15 minutes per evaluation.
-
-The bottom line is TRUST. Success hinges on designing safety, structure, accountability, and follow-through, not just deploying a survey.
+In conclusion the total job cost is eighty six thousand and the cost per desk is four thousand three hundred. Job order costing gives EliteCraft accurate cost tracking better pricing decisions effective budgeting and improved operational control in a customized production environment.
